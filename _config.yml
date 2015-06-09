@@ -28,3 +28,5 @@ markdown: rdiscount
 #   extensions: []
 
 pygments: true
+
+baseurl: /peterbinks.github.io
